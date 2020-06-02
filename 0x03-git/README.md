@@ -1,1 +1,1 @@
-This proyect is about git
+Starting to code today, so cool
